@@ -1,7 +1,9 @@
 # Modelo de Poster para TC
-Modelo de poster para TCs da FACIN
 
-Créditos para @andrellsantos pelo logo da FACIN centralizado no topo.
+![Preview](raw/master/fig/poster-preview.png "Preview do Poster")
+
+Modelo de poster para TCs da Escola Politécnica, baseado no modelo de pôsteres da finada [FACIN](https://github.com/meneguzzi/facin-tc-poster-template).
+
 
 ## Como usar
 
