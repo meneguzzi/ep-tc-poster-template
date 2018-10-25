@@ -1,6 +1,6 @@
 # Modelo de Poster para TC
 
-![Preview](raw/master/fig/poster-preview.png "Preview do Poster")
+![Preview](fig/poster-preview.png "Preview do Poster")
 
 Modelo de poster para TCs da Escola Politécnica, baseado no modelo de pôsteres da finada [FACIN](https://github.com/meneguzzi/facin-tc-poster-template).
 
