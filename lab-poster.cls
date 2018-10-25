@@ -147,19 +147,19 @@
 	\vspace{0.1cm}%
 	\noindent\makebox[\textwidth][c]{%
 %
-	\begin{minipage}[c]{0.15\linewidth}%
-		\begin{center}%
-		\ifx\@unilogo\@empty%
-			\relax%
-		\else%
-		\includegraphics[width=9cm]{\@unilogo} 
-		\fi %
-			% \includegraphics[width=9cm]{fig/pucrs-logo.pdf}%
-		\end{center}%
-	\end{minipage}
+	% \begin{minipage}[c]{0.15\linewidth}%
+% 		\begin{center}%
+% 		\ifx\@unilogo\@empty%
+% 			\relax%
+% 		\else%
+% 		\includegraphics[width=9cm]{\@unilogo}
+% 		\fi %
+% 			% \includegraphics[width=9cm]{fig/pucrs-logo.pdf}%
+% 		\end{center}%
+% 	\end{minipage}
 %	
 	\begin{minipage}[c]{0.70\linewidth}%
-		\centering%
+		\raggedright%
 		\veryHuge \color{\@themecolor}%
 		\textbf{\@title}\\%
 		%
@@ -179,15 +179,15 @@
 		\Large \Letter ~ \texttt{\@email}\\%
 	\end{minipage}%
 %
-	\begin{minipage}[c]{0.15\linewidth}%
-		\begin{center}%
+	\begin{minipage}[c]{0.30\linewidth}%
+		\begin{flushleft}%
 		\ifx\@lablogo\@empty%
 			\relax%
 		\else%
-		\includegraphics[width=9cm]{\@lablogo} 
+		\includegraphics[width=23cm]{\@unilogo}%
 		\fi %
-			% \includegraphics[width=9cm]{fig/facin-logo.pdf}%
-		\end{center}%
+			% \includegraphics[width=9cm]{fig/ep-logo.pdf}%
+		\end{flushleft}%
 	\end{minipage}}%
 	\\[0.1cm]%
 % A bit of extra whitespace between the header and poster content
